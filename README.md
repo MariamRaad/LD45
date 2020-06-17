@@ -1,7 +1,8 @@
 # LD45
 GameJam Ludum Dare 45</br>
 <b> Catch The Money </b> </br>
-Dieses Spiel wurde während dem Game Jam (5.10.-7.10.19) "Ludum Dare 45" mit dem Thema "Start with Nothing" kreiert.</br>
+Dieses Spiel wurde als 2er Team während dem Game Jam (5.10.-7.10.19) "Ludum Dare 45" kreiert.</br>
+Das Thema war: "Start with Nothing" </br>
 _____________________________________
 <b>Tech:</b></br>
 Unity, C#
