@@ -16,6 +16,7 @@ _____________________________________
 - Man startet mit nichts und sammelt dann Geld
 - Look'n'Feel basieren auf dem bekannten Spiel "Moohrhun schießen".
 - Steigender Schwierigkeitsgrad mit steigendem Level, z.B. kann Geld wieder abgezogen werden
+_____________________________________
 
 Das Spiel kann unter folgendem Link gespielt werden: https://dulce-mari.itch.io/ld45-catch-the-money
 
