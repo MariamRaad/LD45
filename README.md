@@ -18,7 +18,7 @@ _____________________________________
 
 Das Spiel kann unter folgendem Link gespielt werden: https://dulce-mari.itch.io/ld45-catch-the-money
 
-<img src="LudumDare45-2019-10-07_small.gif" width="480" height="270"/>
+<img src="LudumDare45-2019-10-07_small.gif" width="580" height="370"/>
 
 <b>Hauptmenü</b></br>
 <img src="/Screenshots/mainmenu.png" width="414" height="247"/>
