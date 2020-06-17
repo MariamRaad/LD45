@@ -20,4 +20,14 @@ Das Spiel kann unter folgendem Link gespielt werden: https://dulce-mari.itch.io/
 
 <img src="LudumDare45-2019-10-07_small.gif" width="480" height="270"/>
 
-<b>Hauptmenü:</b></br>
+<b>Hauptmenü</b></br>
+<img src="/Screenshots/mainmenu.png" width="414" height="247"/>
+
+<b>Credits</b></br>
+<img src="/Screenshots/credits.PNG" width="414" height="247"/>
+
+<b>Level 1</b></br>
+<img src="/Screenshots/level1_1.PNG" width="414" height="247"/>
+
+<b>Level 2</b></br>
+<img src="/Screenshots/level2_1.PNG" width="414" height="247"/>
