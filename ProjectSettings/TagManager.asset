@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - Money
+  - LoadNextLevel
+  - Button
+  - FxTemporaire
+  - Taxes
+  - MoneyHundred
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Middleground
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3485877881
+    locked: 0
+  - name: Middleground
+    uniqueID: 3582871215
+    locked: 0
+  - name: Foreground
+    uniqueID: 1087417585
+    locked: 0
+  - name: Money
+    uniqueID: 408701975
+    locked: 0
+  - name: UI
+    uniqueID: 1216056137
+    locked: 0
+  - name: Character
+    uniqueID: 1685852655
+    locked: 0
