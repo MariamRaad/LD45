@@ -5,12 +5,13 @@ A game created during the 48-hour Ludum Dare 45 Game Jam as a two-person team (0
 The theme of the Game Jam was "Start with Nothing".
 
 ## 📸 Showcase
-Play the game: https://dulce-mari.itch.io/ld45-catch-the-money
+<!-- TODO fix the cursor in the game in itch.io, because cursor is not showing at all -->
+<!-- Play the game: https://dulce-mari.itch.io/ld45-catch-the-money -->
 
-<!-- TODO replace with video for sounds -->
-<img src="LudumDare45-2019-10-07_small.gif" width="580" height="370"/>
+<video src="https://github.com/user-attachments/assets/84940649-4f2d-4118-b80a-2e6f9b03c6e1.mp4"></video>
 
-<!-- Mehr Videos gibt es hier: https://drive.google.com/drive/folders/1RBc4-owO88R1O0eM_zRpMRAHga1wlajn?usp=sharing -->
+<!-- <img src="LudumDare45-2019-10-07_small.gif" width="580" height="370"/> -->
+<!-- More videos can be found here: https://drive.google.com/drive/folders/1RBc4-owO88R1O0eM_zRpMRAHga1wlajn?usp=sharing -->
 
 ## 🛠 Tech Stack
 Unity, C#
