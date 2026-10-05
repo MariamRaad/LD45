@@ -9,6 +9,7 @@ The theme of the Game Jam was "Start with Nothing".
 <!-- Play the game: https://dulce-mari.itch.io/ld45-catch-the-money -->
 
 <video src="https://github.com/user-attachments/assets/84940649-4f2d-4118-b80a-2e6f9b03c6e1.mp4"></video>
+The music in the video is from: Bensound.com/royalty-free-music, Artist: Benjamin Tissot, Title: Jazzy Frenchy, License code: TJ0INHNUODIF4PRX, Link: https://www.bensound.com/royalty-free-music/track/jazzy-frenchy-upbeat-funny
 
 <!-- <img src="LudumDare45-2019-10-07_small.gif" width="580" height="370"/> -->
 <!-- More videos can be found here: https://drive.google.com/drive/folders/1RBc4-owO88R1O0eM_zRpMRAHga1wlajn?usp=sharing -->
